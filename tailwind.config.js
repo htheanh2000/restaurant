@@ -15,7 +15,8 @@ module.exports = {
         red: '#FF3838',
         green: '#3FA72F',
         'green-10': 'RGBA(63, 198, 110, 0.1)',
-        brown: '#311F09'
+        brown: '#311F09',
+        'skin-40': 'RGBA(255, 244, 231, 0.4)'
       },
     },
   },
